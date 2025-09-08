@@ -1,6 +1,6 @@
 # Student Performance Analysis
 
-## Project Summary
+## Project Summary 
 
 This project conducts an exploratory data analysis (EDA) on the `Student_List.csv` dataset to identify and visualize the key factors influencing student academic performance, as measured by Grade Point Average (GPA). By examining a range of variables—from study habits and parental background to extracurricular involvement—this analysis provides data-driven insights into the drivers of student success.
 
